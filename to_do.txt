@@ -1,0 +1,31 @@
+describe  			OK
+checar null			OK
+checar tipo das features	OK
+checar porcentagem da target	OK	
+
+filtrar varianceThreshold	OK	
+filtrar feature correlation	OK	
+analisar variaveis especificas	OK
+balancear os dados
+	SMOTE?
+	under sampling?
+	os 2?
+	class_weight?
+aplicar PCA
+plotar feature correlation
+
+aplicar modelos
+	Logistic Regression
+	Random Forest
+	XGBoosting ?
+	SVM ?
+	KNN ?
+
+cross validation (não sei oq englobar)
+
+linear optimization
+	utilizar predict_proba
+	SIMPLEX ?
+
+	
+	
